@@ -10,8 +10,8 @@
  
  📊🎲 Entusiasta em Data Science
  
- ⭐️⭐️ Participante de comunidades tech que visam 
- apoiar e encorajar mulheres nessa área
+ ⭐️⭐️ Participante em comunidades tech que visam 
+ apoiar e encorajar mulheres na área
  
 **Tecnologias que estudo**
 </br>
