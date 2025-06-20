@@ -6,9 +6,9 @@
 [![Linkedin](https://img.shields.io/badge/-Meu_LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliabartolo/)](https://www.linkedin.com/in/juliabartolo/)
 [![Email](https://img.shields.io/badge/-Meu_Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliabartoloo@gmail.com)](mailto:juliabartoloo@gmail.com)
 
- 👩‍💻📚 Sou estudante de Ciência da Computação pela UFRRJ 
+ 👩‍💻📚 Cientista da Computação pela UFRRJ 
  
- 📊🎲 Entusiasta em Data Science
+ 📊🎲 Engenheira de dados com mais de 3 anos de experiência
  
  ⭐️⭐️ Participante em comunidades tech que visam 
  apoiar e encorajar mulheres na área
